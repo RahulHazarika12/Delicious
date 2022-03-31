@@ -93,4 +93,3 @@ const Info = styled.div`
 `;
 export default Recipe;
 
-//18.23
