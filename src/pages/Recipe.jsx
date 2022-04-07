@@ -68,7 +68,7 @@ const DetailWrapper = styled.div`
     color: #fff;
   }
   h2 {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
   li {
     font-size: 1.2rem;
